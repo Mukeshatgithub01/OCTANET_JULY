@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Landing Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>My Landing Page</h1>
+    <p>I'm a college student who's passionate about web development.</p>
+  </header>
+  <main>
+    <img src="image.jpg" alt="My Landing Page Image">
+    <p>I created this landing page to showcase my skills.</p>
+    <p>I hope you like it!</p>
+  </main>
+  <footer>
+    <p>Copyright © 2023 My Landing Page</p>
+    <p>Created by <a href="#">Your Name</a></p>
+  </footer>
+</body>
+</html>
